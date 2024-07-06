@@ -88,4 +88,3 @@ divide.place(x=220, y=140, width=60)
 
 
 window.mainloop()
-
